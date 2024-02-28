@@ -1,8 +1,13 @@
 👩🏽‍💻 👋 
 ## Hi, I'm Vivian! ## 
 
-I'm current fresh Data Scientist with deep business interests
+🚀 Aspiring Data Scientist at the intersection of data and business. Passionate about harnessing the power of analytics to drive decision-making and innovation. 📊
 
+🌱 Constantly exploring the latest in machine learning and data analysis to solve real-world problems. Let's connect and transform data into actionable insights together!
+
+💼 Interested in leveraging data science for strategic business advantage. Open to collaborations and discussions on the transformative role of data in the business landscape.
+
+🔗 Let's make data work for us. Reach out for projects, ideas, or a good data-driven chat!
 
 **You also can find me:**
 
